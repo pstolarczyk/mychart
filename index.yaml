@@ -1,3 +1,4 @@
+$ curl https://github.com/pstolarczyk/mychart/index.yaml
 apiVersion: v1
 entries:
   mychart:
